@@ -1,0 +1,51 @@
+site_name: Prescribed Burning Atlas
+repo_url: https://github.com/anthonyrawlinsuom/pba_web
+docs_dir: ./docs
+use_directory_urls: true
+nav:
+  - Home: index.md
+  - Project:
+      - About the PBA Project: about.md
+      - Disclaimer: disclaimer.md
+
+  - Usage:
+      - Using the site: examples.md
+      - If you encounter an error: errors.md
+
+  - Development:
+      - API: API.md
+      - Configuration: config.md
+      - Contributors: developers.md
+      - Installation: install.md
+      - License (LGPLv3): license.md
+      - Release Notes: release-notes.md
+
+  - Deployment:
+      - Swarm: swarm.md
+      - Deploy: deploy.md
+
+  - Management:
+      - Dashboards: dashboards.md
+      - GeoServer: geoserver.md
+      - Swarmpit: swarmpit.md
+      - Traefik: traefik.md
+
+theme: readthedocs
+# Configuration
+# theme:
+#   name: 'material'
+#   language: 'en'
+#   palette:
+#     primary: 'indigo'
+#     accent: 'indigo'
+#   font:
+#     text: 'Roboto'
+#     code: 'Roboto Mono'
+# # Extensions
+# markdown_extensions:
+#   - admonition
+#   - codehilite:
+#       guess_lang: false
+#   - toc:
+#       permalink: true
+copyright: Copyright &copy; 2018 University of Melbourne
