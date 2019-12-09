@@ -15,8 +15,8 @@ The basic requirements are:
 ---
 
 ## Support
-Contact the Development team at the University of Melbourne Creswick Campus.
- - Lead Developer: [Anthony Rawlins](mailto:anthony.rawlins@unimelb.edu.au)
+Contact the Development team at the University of Wollongong.
+ - Lead Developer: [Anthony Rawlins](mailto:anthony_rawlins@uow.edu.au)
  - Project Manager: [Hamish Clarke](mailto:hamishc@uow.edu.au)
 
 ---
@@ -29,5 +29,5 @@ Commits will trigger continuous integration with the infrastructure on the [Dock
 
 ---
 
-Last updated: Friday, 01. November 2019 10:22AM
+Last updated: Monday, 09. December 2019 10:22AM
 Copyright 2018-2019 University of Wollongong
