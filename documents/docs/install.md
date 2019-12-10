@@ -1,14 +1,14 @@
 # Installation from Docker
 
-Assumes a Linux OS as the Container Host. 
+Assumes a Linux OS as the Container Host.
 
 To pull the container from DockerHub:
- 
-    $ docker pull anthonyrawlinsuom/pba
+
+    $ docker pull anthonyrawlinsuom/pba_web:latest
 
 ---
 
-	
+
 ### Master Project Package
 The components of the system are submodules of a master GitHub project. In order to maintain confidentiality, the webserver package is private.
 
