@@ -1,5 +1,4 @@
-# The Prescribed Burning Atlas v1.1.2
-
+# The Prescribed Burning Atlas
 
 **PLEASE NOTE: DOCUMENTATION IS UNDER DEVELOPMENT**
 
@@ -10,14 +9,15 @@
 The basic requirements are:
 
  - [Docker](https://docker.io)
- - [Kubernetes](https://kubernetes.io/)
+ - A Linux OS ( for shell scripting with BASH)
 
 ---
 
 ## Support
 Contact the Development team at the University of Wollongong.
- - Lead Developer: [Anthony Rawlins](mailto:anthony_rawlins@uow.edu.au)
- - Project Manager: [Hamish Clarke](mailto:hamishc@uow.edu.au)
+
+  - Lead Developer: [Anthony Rawlins](mailto:anthony_rawlins@uow.edu.au)
+  - Project Manager: [Hamish Clarke](mailto:hamishc@uow.edu.au)
 
 ---
 
